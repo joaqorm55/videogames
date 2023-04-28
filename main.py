@@ -45,7 +45,6 @@ table['global_sales'] = table['global_sales']
 
 st.write('<style>table{border-collapse: collapse;}' \
          'th, td{text-align: center; padding: 1px;}' \
-         'th{background-color: #e7ecf1; color: #FFF;}' \
          '</style>', unsafe_allow_html=True)
 
 
